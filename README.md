@@ -32,15 +32,14 @@ The project follows **MVVM architecture**:
 
 ## 📷 Screenshots
 
-### 🏠 Home Screen
-![Home](screenshots/1.jpeg)
+<p align="center">
+  <img src="screenshots/1.jpeg" width="220"/>
+  <img src="screenshots/4.jpeg" width="220"/>
+</p>
 
-### 💬 Comments Screen
-![Comments](screenshots/4.jpeg)
-
-### ➕ Add Post Screen
-![Add Post](screenshots/2.jpeg)
-![Add Post](screenshots/3.jpeg)
-
+<p align="center">
+  <img src="screenshots/2.jpeg" width="220"/>
+  <img src="screenshots/3.jpeg" width="220"/>
+</p>
 
 
