@@ -30,3 +30,17 @@ https://jsonplaceholder.typicode.com/
 
 The project follows **MVVM architecture**:
 
+## 📷 Screenshots
+
+### 🏠 Home Screen
+![Home](screenshots/1.jpeg)
+
+### 💬 Comments Screen
+![Comments](screenshots/4.jpeg)
+
+### ➕ Add Post Screen
+![Add Post](screenshots/2.jpeg)
+![Add Post](screenshots/3.jpeg)
+
+
+
